@@ -1,5 +1,7 @@
 # Boids---Flocking-and-Steering
 
+The following is the report that was attached to this project. It details the research that went into the project and the decisions made.
+
 ## Final report
 
 #### Submitted for the BSc/BEng/MEng in
